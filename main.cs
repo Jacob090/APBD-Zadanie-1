@@ -1,6 +1,6 @@
 using System;
 
-namespace MyApp 
+namespace MyApp
 {
     internal class Program
     {

@@ -14,7 +14,7 @@ namespace MyApp
         }
         public static double CalculateAverage(int[] numbers)
         {
-            int sum = 0;
+            int sum = 0; 
             foreach(int num in numbers)
             {
                 sum += sum;
